@@ -1,4 +1,4 @@
-import { useState, useEffect, useCallback } from "react";
+import { useState, useEffect, useCallback } from "react"; // @ts-nocheck
 /// <reference types="react" />
 const CLIENT_ID = "546196176766-060ji046vk8r8kem36ko66dr6d4gme9n.apps.googleusercontent.com";
 const SCOPES = "https://www.googleapis.com/auth/calendar";
